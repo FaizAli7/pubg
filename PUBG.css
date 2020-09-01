@@ -73,3 +73,12 @@ td:hover{
     left: 10px;
     top: 3px;
 }
+#mvp{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+#mvptable{
+    width: 50%;
+    margin-left: 25%;
+}
